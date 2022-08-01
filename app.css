@@ -225,7 +225,7 @@ img {
 .btn-show-all {
     font-size: 2rem;
     background: var(--main-gray);
-    transition: background 0.3s ease-out;
+    transition:  0.3s ease-out;
 }
 
 .btn-show-all:hover {
